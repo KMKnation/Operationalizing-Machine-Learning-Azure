@@ -10,7 +10,11 @@ In this project, we are going through the all the processes that are needed to d
 ## Key Steps
 The key steps are as follows.
 1. Authentication
-2. 
+2. Model Configuration
+3. Deployment
+4. Consume
+5. Swagger Documentation
+6. Pipeline Automation
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
