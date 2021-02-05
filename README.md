@@ -1,11 +1,16 @@
 # Operationalizing Machine Learning  | Azure ML Studio
 
-In this project, we are going through the all the processes that are needed to deploy our machine learning model on Azure for the end users. Though, this repository is useful to create Ml-Ops Pipeline for organisations.
+In this project, We are going to demonstrate all the things required to make the best ML model live for end-user.
+
+We will go through creating AutoML experiment to deploying model for end user.
+Also we will evaluate the endpoint by consuming it.
+We will check the stability and performance of the endpoint by enabling the logs and benchmarking the endpoint.
+To allow other developers to understand the endpoint, we will demonstrate how to use swagger for it.
+
+At last, to automate this process for dev-ops purpose, we will create one pipeline which uses the Azure SDK to perform all the above operations through [notebook](./aml-pipelines-with-automated-machine-learning-step.ipynb).
 
 ## Architectural Diagram
 ![Architecture](./images/azure_pipeline.jpg)
-
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ## Key Steps
 The key steps are as follows.
