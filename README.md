@@ -9,7 +9,7 @@ In this project, we are going through the all the processes that are needed to d
 
 ## Key Steps
 The key steps are as follows.
-1. Model Configuration & Training
+1. Automated ML Experiment
     
     To operationalize the ML model for end users, first we should have our prepared dataset and model configuration for that dataset should be ready which is **Bank marketing** dataset in our case.
     ![Dataset](./images/1-bank_marketing_dataset.PNG)
