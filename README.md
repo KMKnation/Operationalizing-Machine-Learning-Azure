@@ -102,6 +102,8 @@ The key steps are as follows.
 
 [![Demo video](https://i.ytimg.com/vi/pndxfhW3kp0/0.jpg)](https://youtu.be/pndxfhW3kp0)
 
+URL: [https://youtu.be/pndxfhW3kp0](https://youtu.be/pndxfhW3kp0)
+
 ## Standout Suggestions
 - There should be a option to set enable push notification on failure/suceess of the deployment/training process.
 - There should also have one option allowing the developer to choose type of documentation to download. Like swagger or postman.
