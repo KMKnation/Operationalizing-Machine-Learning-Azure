@@ -99,7 +99,8 @@ The key steps are as follows.
     ![RemoveComputeCluster](./images/17-compute-cluster-deletion.PNG)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
+[![Demo video](https://i.ytimg.com/vi/pndxfhW3kp0/0.jpg)](https://youtu.be/pndxfhW3kp0)
 
 ## Standout Suggestions
 - There should be a option to set enable push notification on failure/suceess of the deployment/training process.
