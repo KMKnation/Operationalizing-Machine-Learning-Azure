@@ -109,6 +109,10 @@ The key steps are as follows.
 
 URL: [https://youtu.be/pndxfhW3kp0](https://youtu.be/pndxfhW3kp0)
 
+## Future Improvement Suggestions
+- Right now, we have to set the minimum cluster and maximum hours to train. But If we connect this both things just ask user to enter minutes to complete the whole automl cycle and the studio automatically allocates clusters to achieve concurrency would be great. However this is one of costlier thing to do but in some emergency scenario, it might be usefull one.
+- Right now, this whole solution is on cloud. Hence, For first run, we are just experimenting which code gets run perfectly on cloud and keeps improving the pipeline which leads to multiple consumption of compute clusters or instances for just experiment. If in future there would be option to run the azure solution by using local computer's resource for experiments and then deploying the soluiton with azure cloud would be must cost savier.
+
 ## Standout Suggestions
 - There should be a option to set enable push notification on failure/suceess of the deployment/training process.
 - There should also have one option allowing the developer to choose type of documentation to download. Like swagger or postman.
