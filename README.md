@@ -105,9 +105,9 @@ The key steps are as follows.
 
 ## Screen Recording
 
-[![Demo video](https://i.ytimg.com/vi/pndxfhW3kp0/0.jpg)](https://youtu.be/pndxfhW3kp0)
+[![Demo video](https://i.ytimg.com/vi/pndxfhW3kp0/0.jpg)](https://youtu.be/tzUU06RSUuk)
 
-URL: [https://youtu.be/pndxfhW3kp0](https://youtu.be/pndxfhW3kp0)
+URL: [https://youtu.be/pndxfhW3kp0](https://youtu.be/tzUU06RSUuk)
 
 ## Future Improvement Suggestions
 - Right now, we have to set the minimum cluster and maximum hours to train. But If we connect this both things just ask user to enter minutes to complete the whole automl cycle and the studio automatically allocates clusters to achieve concurrency would be great. However this is one of costlier thing to do but in some emergency scenario, it might be usefull one.
